@@ -236,3 +236,6 @@ This repository serves as the official landing page for ThinRDP. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ThinRDP today!**
+
+---
+**Last updated:** 2026-09-11 05:47:33 UTC
