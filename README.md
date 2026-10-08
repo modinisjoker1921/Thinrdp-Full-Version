@@ -238,4 +238,4 @@ This repository serves as the official landing page for ThinRDP. The software is
 **Get the most recent version of ThinRDP today!**
 
 ---
-**Last updated:** 2026-10-08 17:49:26 UTC
+**Last updated:** 2026-10-08 23:14:29 UTC
